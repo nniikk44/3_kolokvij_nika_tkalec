@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	background-color: #bfa2db;
+	padding: 10px;
+	width: 600px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+	} 
+ body {
+	background-image: url("pozadina video.jpg");
+       } 
+ul {
+			padding:20px; 
+			margin-left: auto; 
+			margin-right:auto;  
+			width: 300px;
+			text-align: center;
+	}
+li {	display:inline;
+        background-color: #bfa2db;
+		margin: 0 15px;
+   }
